@@ -1,6 +1,6 @@
 baseURL: https://fualsan.github.io/
 locale: en-us
-title: Non-Hype AI Topics (N-HAIT)
+title: Non-Hype AI Topics
 paginate: 5
 theme: PaperMod
 enableRobotsTXT: true
@@ -15,12 +15,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Non-Hype AI Topics (N-HAIT)
+  title: Non-Hype AI Topics
   description: "A scientific and technical blog about non-hype AI topics that fall outside the current trends."
   keywords: [Blog, Portfolio, PaperMod, Math, Science, AI]
   author: H. Fuat Alsan
   # author: ["Me", "You"] # multiple authors
-  images: ["https://avatars.githubusercontent.com/u/13269656?v=4"]
+  # images: ["https://avatars.githubusercontent.com/u/13269656?v=4"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: true
@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     #title: Non-Hype AI Topics
-    #subtitle: "Welcome to Non-Hype AI Topics (N-HAIT) blog!"
+    #subtitle: "Welcome to Non-Hype AI Topics blog!"
     #imageUrl: /img/avatar.jpg
     #imageWidth: 120
     #imageHeight: 120
@@ -75,7 +75,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to Non-Hype AI Topics (N-HAIT) blog!"
+    Title: "Welcome to Non-Hype AI Topics blog!"
     Content: I am H. Fuat Alsan and I write about non-hype AI topics that usually fall outside the current trends.
 
   socialIcons:
